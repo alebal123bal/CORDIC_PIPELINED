@@ -30,7 +30,7 @@ The repository is organized as follows:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/pipelined-vhdl-cordic.git
+   git clone https://github.com/alebal123bal/CORDIC_PIPELINED.git
    ```
 
 ## Dependencies
